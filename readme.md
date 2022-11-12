@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ajeddin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajeddin)](https://twitter.com/ajeddin)
 [![StackOverflow Badge](https://img.shields.io/badge/-ajeddin-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/20485989/abdulaziz-jamaleddin)](https://stackoverflow.com/users/20485989/abdulaziz-jamaleddin)
  [![Gmail Badge](https://img.shields.io/badge/-abdulj.eddin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:abdulj.eddin@gmail.com)
-[![Keybase Badge](https://img.shields.io/badge/-ajeddin-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/ajeddin)]([https://keybase.io/piraces](https://keybase.io/ajeddin))
+
 ___
 ### Quick Facts About Me:
 - I am an Computer Science student at HFC.
