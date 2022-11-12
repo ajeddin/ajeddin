@@ -1,6 +1,11 @@
 # Hey there, I am Abdulaziz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeddin" alt="ajeddin" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz%20Jamaleddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajedev)](https://www.linkedin.com/in/ajedev/)
+[![Twitter Badge](https://img.shields.io/badge/-@ajeddin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajeddin)](https://twitter.com/ajeddin)
+[![StackOverflow Badge](https://img.shields.io/badge/-ajeddin-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/20485989/abdulaziz-jamaleddin)](https://stackoverflow.com/users/20485989/abdulaziz-jamaleddin)
+ [![Gmail Badge](https://img.shields.io/badge/-abdulj.eddin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:abdulj.eddin@gmail.com)
+[![Keybase Badge](https://img.shields.io/badge/-ajeddin-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/ajeddin)]([https://keybase.io/piraces](https://keybase.io/ajeddin))
 ___
 ### Quick Facts About Me:
 - I am an Computer Science student at HFC.
@@ -13,17 +18,14 @@ ___
 - Exploring new places! 🚀
 - Nature 🏞 🏕
 - Biking 🚲 🚵‍♂️ 
-- Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff
-
-
-### Contact Info:
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ajedev/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:abdulj.eddin@gmail.com)
-
+- Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=ajeddin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 ### Skills:
-- Python 
-- Javascript
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
