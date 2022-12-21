@@ -18,6 +18,7 @@ ___
 - Exploring new places! 🚀
 - Nature 🏞 🏕
 - Biking 🚲 🚵‍♂️ 
+- Reading 📖📖
 - Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
