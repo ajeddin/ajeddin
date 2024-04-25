@@ -16,11 +16,9 @@ ___
 - Building/Fixing PCs & Laptops 💻 🖥 🛠
 - I love learning new skills! 🤓
 - Exploring new places! 🚀
-- Nature 🏞 🏕
-- ChatGPT 🧑‍💻🧑‍💻
-- Biking 🚲 🚵‍♂️ 
-- Reading 📖📖
-- Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- Nature 🏞 
+- Biking 🚲 
+- Reading 📖
 
 ### Skills:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
