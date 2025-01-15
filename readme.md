@@ -8,9 +8,7 @@
 
 ___
 ### Quick Facts About Me:
-- I am an Computer Science student at HFC.
-- Currently in a Bootcamp studying Software Development.
-
+- CS @UMICH'26
 ### Interests:
 - Anything Tech 🔬
 - Building/Fixing PCs & Laptops 💻 🖥 🛠
