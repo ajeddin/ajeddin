@@ -8,7 +8,7 @@
 
 ___
 ### Quick Facts About Me:
-- CS @UMICH'26
+- CS @UMich '26
 ### Interests:
 - Anything Tech 🔬
 - Building/Fixing PCs & Laptops 💻 🖥 🛠
