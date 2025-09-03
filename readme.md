@@ -4,7 +4,6 @@
  [![Gmail Badge](https://img.shields.io/badge/-abduljeddin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:abduljeddin@gmail.com)
 
 ___
-- CS @UMich '27
 
 ### Skills:
 <code><img height="35" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
@@ -14,6 +13,7 @@ ___
 <code><img height="35" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="35" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="35" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></code>
+
 
 
 
